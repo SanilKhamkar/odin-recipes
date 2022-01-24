@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.nav-bar {
+	width:  100%;
+	height:  auto;
+	background: #364F6B;
+}
