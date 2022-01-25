@@ -18,12 +18,12 @@ h1 {
 }
 
 h2 {
-	font-family:  Calibri;
+	font-family:  'Font Name', Calibri;
 	font-size: 2em;
 	margin: 0;
 }
 
-.recipe-cards {
+.recipe-cat {
 	border-bottom:  4px solid #364F6B;
 	float:  left;
 	margin: 5em 0 0 5em;
@@ -32,14 +32,14 @@ h2 {
 
 .cards {
 	float:  left;
-	width:  10%;
+	width:  11%;
 	margin: 3em 0 0 5em;
 	border:  1px solid grey;
 }
 
 .cards a {
 	text-decoration: none;
-	color: #f0ffff;
+	color: #000;
 }
 
 .cards h4 {
@@ -53,8 +53,8 @@ h2 {
 }
 
 .cards img { 
-	width:  12em;
-	height: 10em;
+	width:  204px;
+	height: 200px;
 }
 
 .cards p {
