@@ -9,7 +9,12 @@ body {
 	background: #364F6B;
 }
 
-h1, h2, h3, h4 {
+.back {
+	float: left;
+	margin: 2em 0 0 5em;
+}
+
+h1, h2, h3, h4, a {
 	font-family: Calibri;
 }
 
@@ -29,7 +34,7 @@ h2 {
 .recipe-cat {
 	border-bottom:  4px solid #364F6B;
 	float:  left;
-	margin: 5em 0 0 5em;
+	margin: 1em 0 0 5em;
 	width: 90%;
 }
 
